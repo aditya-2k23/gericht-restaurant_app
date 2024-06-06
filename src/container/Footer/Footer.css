@@ -2,7 +2,6 @@
   width: 100%;
   position: relative;
   z-index: 1;
-
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -16,7 +15,6 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-
   margin-top: 5rem;
   padding: 0 2rem;
 }
